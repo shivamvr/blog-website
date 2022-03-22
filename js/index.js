@@ -19,6 +19,7 @@ const renderPosts = async (term)=> {
   }
   const res = await fetch(uri)
   const posts = await res.json()
+
   // Number of Posts
   totalPosts =  posts.length
   pagination()
@@ -73,6 +74,10 @@ const pagination = () => {
 const getCurrentPage = (pageNum) => {
     currentPage = pageNum
     renderPosts(searchterm)
+    window.scroll({
+      top: 0,
+      left: 0,
+    });
 }
 
 
