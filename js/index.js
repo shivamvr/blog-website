@@ -13,7 +13,7 @@ let currentPage = 1
 const postPerPage = 3
 
 const renderPosts = async (term)=> {
-  let uri = 'http://localhost:3000/posts?_sort=likes&_order=desc'
+  let uri = 'https://json-web.herokuapp.com/blogs?_sort=likes&_order=desc'
   if(term){
     uri += `&q=${term}`
   }

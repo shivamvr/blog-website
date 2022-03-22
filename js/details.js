@@ -6,7 +6,7 @@ const container = document.querySelector('.details')
 const deleteBtn = document.querySelector('.delete')
 
 const renderDetails = async() => {
-const res = await fetch('http://localhost:3000/posts/' + id)
+const res = await fetch('https://json-web.herokuapp.com/blogs/' + id)
 const post = await res.json()
 const template = `
 <div class="detail">
@@ -21,7 +21,7 @@ const template = `
 // DELETING A BLOG
 
 deleteBtn.addEventListener('click', async (e)=> {
-    const res = await fetch('http://localhost:3000/posts/' + id,{
+    const res = await fetch('https://json-web.herokuapp.com/blogs/' + id,{
         method: 'DELETE'
     })
     window.location.replace('/index.html')

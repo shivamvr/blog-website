@@ -11,7 +11,7 @@ const createPost = async (e) => {
         likes: 0
     }
     
-    await fetch('http://localhost:3000/posts',{
+    await fetch('https://json-web.herokuapp.com/blogs',{
         method: 'POST',
         body: JSON.stringify(doc),
         headers: {'Content-Type': 'application/Json'}
