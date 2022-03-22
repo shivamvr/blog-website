@@ -1,0 +1,108 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "How to be  a nice guy",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere tenetur dolorum asperiores enim fugit labore aperiam nostrum. Sint iure pariatur quam explicabo dolor id tempora. Facilis itaque obcaecati omnis ipsum doloribus, nihil nulla ut sit! Magni eaque pariatur a eius corporis earum nisi nostrum expedita repellendus sapiente ullam quo dolores, inventore dolorum nihil voluptatem ducimus quae quasi deleniti? Neque maiores tempora, ratione nisi dolore ea recusandae dolorum consequatur suscipit magnam id quasi sit sapiente omnis quis accusamus. Id soluta aperiam harum nam reiciendis facilis pariatur velit neque deserunt nostrum. Sunt commodi ipsam libero. Neque nostrum ab ipsa laborum debitis dolores?",
+      "likes": "25"
+    },
+    {
+      "id": 3,
+      "title": "How to be  a web developer",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere tenetur dolorum asperiores enim fugit labore aperiam nostrum. Sint iure pariatur quam explicabo dolor id tempora. Facilis itaque obcaecati omnis ipsum doloribus, nihil nulla ut sit! Magni eaque pariatur a eius corporis earum nisi nostrum expedita repellendus sapiente ullam quo dolores, inventore dolorum nihil voluptatem ducimus quae quasi deleniti? Neque maiores tempora, ratione nisi dolore ea recusandae dolorum consequatur suscipit magnam id quasi sit sapiente omnis quis accusamus. Id soluta aperiam harum nam reiciendis facilis pariatur velit neque deserunt nostrum. Sunt commodi ipsam libero. Neque nostrum ab ipsa laborum debitis dolores?",
+      "likes": "13"
+    },
+    {
+      "id": 5,
+      "title": "Staturday blog",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere tenetur dolorum asperiores enim fugit labore aperiam nostrum. Sint iure pariatur quam explicabo dolor id tempora. Facilis itaque obcaecati omnis ipsum doloribus, nihil nulla ut sit! Magni eaque pariatur a eius corporis earum nisi nostrum expedita repellendus sapiente ullam quo dolores, inventore dolorum nihil voluptatem ducimus quae quasi deleniti? Neque maiores tempora, ratione nisi dolore ea recusandae dolorum consequatur suscipit magnam id quasi sit sapiente omnis quis accusamus. Id soluta aperiam harum nam reiciendis facilis pariatur velit neque deserunt nostrum. Sunt commodi ipsam libero. Neque nostrum ab ipsa laborum debitis dolores?",
+      "likes": "15"
+    },
+    {
+      "title": "shivam1",
+      "body": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere tenetur dolorum asperiores enim fugit labore aperiam nostrum. Sint iure pariatur quam explicabo dolor id tempora. Facilis itaque obcaecati omnis ipsum doloribus, nihil nulla ut sit! Magni eaque pariatur a eius corporis earum nisi nostrum expedita repellendus sapiente ullam quo dolores, inventore dolorum nihil voluptatem ducimus quae quasi deleniti? Neque maiores tempora, ratione nisi dolore ea recusandae dolorum consequatur suscipit magnam id quasi sit sapiente omnis quis accusamus. Id soluta aperiam harum nam reiciendis facilis pariatur velit neque deserunt nostrum. Sunt commodi ipsam libero. Neque nostrum ab ipsa laborum debitis dolores?\n",
+      "likes": 0,
+      "id": 6
+    },
+    {
+      "title": "shivam2",
+      "body": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere tenetur dolorum asperiores enim fugit labore aperiam nostrum. Sint iure pariatur quam explicabo dolor id tempora. Facilis itaque obcaecati omnis ipsum doloribus, nihil nulla ut sit! Magni eaque pariatur a eius corporis earum nisi nostrum expedita repellendus sapiente ullam quo dolores, inventore dolorum nihil voluptatem ducimus quae quasi deleniti? Neque maiores tempora, ratione nisi dolore ea recusandae dolorum consequatur suscipit magnam id quasi sit sapiente omnis quis accusamus. Id soluta aperiam harum nam reiciendis facilis pariatur velit neque deserunt nostrum. Sunt commodi ipsam libero. Neque nostrum ab ipsa laborum debitis dolores?\n",
+      "likes": 0,
+      "id": 7
+    },
+    {
+      "title": "shivam3",
+      "body": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere tenetur dolorum asperiores enim fugit labore aperiam nostrum. Sint iure pariatur quam explicabo dolor id tempora. Facilis itaque obcaecati omnis ipsum doloribus, nihil nulla ut sit! Magni eaque pariatur a eius corporis earum nisi nostrum expedita repellendus sapiente ullam quo dolores, inventore dolorum nihil voluptatem ducimus quae quasi deleniti? Neque maiores tempora, ratione nisi dolore ea recusandae dolorum consequatur suscipit magnam id quasi sit sapiente omnis quis accusamus. Id soluta aperiam harum nam reiciendis facilis pariatur velit neque deserunt nostrum. Sunt commodi ipsam libero. Neque nostrum ab ipsa laborum debitis dolores?\n",
+      "likes": 0,
+      "id": 8
+    },
+    {
+      "title": "shviam4",
+      "body": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere tenetur dolorum asperiores enim fugit labore aperiam nostrum. Sint iure pariatur quam explicabo dolor id tempora. Facilis itaque obcaecati omnis ipsum doloribus, nihil nulla ut sit! Magni eaque pariatur a eius corporis earum nisi nostrum expedita repellendus sapiente ullam quo dolores, inventore dolorum nihil voluptatem ducimus quae quasi deleniti? Neque maiores tempora, ratione nisi dolore ea recusandae dolorum consequatur suscipit magnam id quasi sit sapiente omnis quis accusamus. Id soluta aperiam harum nam reiciendis facilis pariatur velit neque deserunt nostrum. Sunt commodi ipsam libero. Neque nostrum ab ipsa laborum debitis dolores?\n",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "title": "shivam5",
+      "body": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere tenetur dolorum asperiores enim fugit labore aperiam nostrum. Sint iure pariatur quam explicabo dolor id tempora. Facilis itaque obcaecati omnis ipsum doloribus, nihil nulla ut sit! Magni eaque pariatur a eius corporis earum nisi nostrum expedita repellendus sapiente ullam quo dolores, inventore dolorum nihil voluptatem ducimus quae quasi deleniti? Neque maiores tempora, ratione nisi dolore ea recusandae dolorum consequatur suscipit magnam id quasi sit sapiente omnis quis accusamus. Id soluta aperiam harum nam reiciendis facilis pariatur velit neque deserunt nostrum. Sunt commodi ipsam libero. Neque nostrum ab ipsa laborum debitis dolores?\n",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "title": "shivam6",
+      "body": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere tenetur dolorum asperiores enim fugit labore aperiam nostrum. Sint iure pariatur quam explicabo dolor id tempora. Facilis itaque obcaecati omnis ipsum doloribus, nihil nulla ut sit! Magni eaque pariatur a eius corporis earum nisi nostrum expedita repellendus sapiente ullam quo dolores, inventore dolorum nihil voluptatem ducimus quae quasi deleniti? Neque maiores tempora, ratione nisi dolore ea recusandae dolorum consequatur suscipit magnam id quasi sit sapiente omnis quis accusamus. Id soluta aperiam harum nam reiciendis facilis pariatur velit neque deserunt nostrum. Sunt commodi ipsam libero. Neque nostrum ab ipsa laborum debitis dolores?\n",
+      "likes": 0,
+      "id": 11
+    },
+    {
+      "title": "shivam8",
+      "body": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere tenetur dolorum asperiores enim fugit labore aperiam nostrum. Sint iure pariatur quam explicabo dolor id tempora. Facilis itaque obcaecati omnis ipsum doloribus, nihil nulla ut sit! Magni eaque pariatur a eius corporis earum nisi nostrum expedita repellendus sapiente ullam quo dolores, inventore dolorum nihil voluptatem ducimus quae quasi deleniti? Neque maiores tempora, ratione nisi dolore ea recusandae dolorum consequatur suscipit magnam id quasi sit sapiente omnis quis accusamus. Id soluta aperiam harum nam reiciendis facilis pariatur velit neque deserunt nostrum. Sunt commodi ipsam libero. Neque nostrum ab ipsa laborum debitis dolores?\n",
+      "likes": 0,
+      "id": 12
+    },
+    {
+      "title": "shivam9",
+      "body": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere tenetur dolorum asperiores enim fugit labore aperiam nostrum. Sint iure pariatur quam explicabo dolor id tempora. Facilis itaque obcaecati omnis ipsum doloribus, nihil nulla ut sit! Magni eaque pariatur a eius corporis earum nisi nostrum expedita repellendus sapiente ullam quo dolores, inventore dolorum nihil voluptatem ducimus quae quasi deleniti? Neque maiores tempora, ratione nisi dolore ea recusandae dolorum consequatur suscipit magnam id quasi sit sapiente omnis quis accusamus. Id soluta aperiam harum nam reiciendis facilis pariatur velit neque deserunt nostrum. Sunt commodi ipsam libero. Neque nostrum ab ipsa laborum debitis dolores?\n",
+      "likes": 0,
+      "id": 13
+    },
+    {
+      "title": "shivam10",
+      "body": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere tenetur dolorum asperiores enim fugit labore aperiam nostrum. Sint iure pariatur quam explicabo dolor id tempora. Facilis itaque obcaecati omnis ipsum doloribus, nihil nulla ut sit! Magni eaque pariatur a eius corporis earum nisi nostrum expedita repellendus sapiente ullam quo dolores, inventore dolorum nihil voluptatem ducimus quae quasi deleniti? Neque maiores tempora, ratione nisi dolore ea recusandae dolorum consequatur suscipit magnam id quasi sit sapiente omnis quis accusamus. Id soluta aperiam harum nam reiciendis facilis pariatur velit neque deserunt nostrum. Sunt commodi ipsam libero. Neque nostrum ab ipsa laborum debitis dolores?\n",
+      "likes": 0,
+      "id": 14
+    },
+    {
+      "title": "shivam11",
+      "body": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere tenetur dolorum asperiores enim fugit labore aperiam nostrum. Sint iure pariatur quam explicabo dolor id tempora. Facilis itaque obcaecati omnis ipsum doloribus, nihil nulla ut sit! Magni eaque pariatur a eius corporis earum nisi nostrum expedita repellendus sapiente ullam quo dolores, inventore dolorum nihil voluptatem ducimus quae quasi deleniti? Neque maiores tempora, ratione nisi dolore ea recusandae dolorum consequatur suscipit magnam id quasi sit sapiente omnis quis accusamus. Id soluta aperiam harum nam reiciendis facilis pariatur velit neque deserunt nostrum. Sunt commodi ipsam libero. Neque nostrum ab ipsa laborum debitis dolores?\n",
+      "likes": 0,
+      "id": 15
+    },
+    {
+      "title": "Shubham",
+      "body": "The ",
+      "likes": 0,
+      "id": 16
+    },
+    {
+      "title": "ad",
+      "body": "ad",
+      "likes": 0,
+      "id": 17
+    },
+    {
+      "title": "abc",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere tenetur dolorum asperiores enim fugit labore aperiam nostrum. Sint iure pariatur quam explicabo dolor id tempora. Facilis itaque obcaeca",
+      "likes": 0,
+      "id": 18
+    }
+  ],
+  "polls": [
+    {
+      "id": 1,
+      "question": "Do you prefer Vue or React",
+      "answerA": "Vue",
+      "answerB": "React"
+    }
+  ]
+}

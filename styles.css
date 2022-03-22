@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+
+/* base styles */
+body {
+  background: #eee;
+  font-family: 'Roboto';
+  color: #444;
+  max-width: 960px;
+  margin: 100px auto;
+  padding: 10px;
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 2.2%;
+}
+nav h1 {
+  margin: 0;
+}
+nav a {
+  color: white;
+  text-decoration: none;
+  padding: .4rem 1rem;
+}
+.add-btn{
+  border-radius: .3rem;
+  padding: .3rem .8rem;
+  background: #36cca2;
+}
+.add-btn:active{
+  background: #2eaf8a;
+}
+
+form {
+  max-width: 500px;
+}
+.search{
+  padding-left: 2.2%;
+}
+/* -------INPUTS------- */
+
+input, textarea {
+  border-radius: .25rem;
+  display: block;
+  margin: 16px 0;
+  padding: 6px 10px;
+  width: 100%;
+  border: 1px solid #ddd;
+  font-family: 'Roboto';
+}
+textarea {
+  min-height:200px;
+}
+/* -------BUTTON------- */
+
+button{
+  background: #36CCA2;
+  color: #fff;
+  border: none;
+  outline: none;
+  border-radius: .4rem;
+  padding: .45rem .8rem;
+  cursor: pointer;
+}
+button:active{
+  background: #33bd96;
+}
+
+.post,.detail{
+  padding: 1rem;
+  background: #fff;
+  color: #444444;
+  margin: 1.3rem;
+  border-radius: .5rem;
+}
+.post a{
+color: #36CCA2
+}
+.post h2{
+  margin: 0;
+}
+.detail{
+  margin: 1.3rem 0;
+}
+
+ /*------- Pagination --------*/
+
+ .page-list{
+   display: flex;
+   list-style: none;
+ }
+ .page-list li{
+ cursor: pointer;
+ margin: .3rem;
+ padding: .2rem .6rem;
+ border: 1.5px solid cadetblue;
+ border-radius: .2rem;
+ }
+ .page-list li:hover{
+ border: 1.5px solid rgba(115, 196, 199,0.5);
+ }

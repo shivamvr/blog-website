@@ -1,0 +1,27 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  <link rel="stylesheet" href="styles.css">
+  <title>JSON Server</title>
+</head>
+<body>
+  <nav>
+    <h1>All Blogs</h1>
+    <a href="/create.html"><i class="material-icons add-btn">add</i></a>
+  </nav>
+  <form  class="search">
+    <input class="search-input" onkeypress="searchOnChange()"  type="text" name="term" placeholder="search term">
+  </form>
+  <div class="blogs">
+    <!-- inject blogs here from js -->
+  </div>
+
+  <ul class="page-list">
+    <!-- inject page list form js -->
+  </ul>
+
+  <script src="js/index.js"></script>
+</body>
+</html>
